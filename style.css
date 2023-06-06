@@ -1,0 +1,50 @@
+.articles h2 {
+  font-size: xx-large;
+  color: blue;
+  text-align: center;
+}
+.side {
+  text-align: center;
+  padding-bottom: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgba(204, 183, 78, 0.537);
+}
+
+p {
+  color: black;
+}
+
+.red {
+  color: red;
+}
+
+#main {
+  color: rgb(62, 128, 145);
+}
+
+.text-white {
+  color: white;
+}
+
+.alert {
+  color: gray;
+}
+
+div {
+  background: blue;
+}
+
+.alert-warning {
+  background: #7c3535;
+  color: yellow;
+}
+
+.main-header {
+  text-align: center;
+  padding: 10px;
+}
+
+main section .main-text {
+  background-color: black;
+  padding: 10px 0px;
+}
